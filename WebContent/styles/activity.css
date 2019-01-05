@@ -1,0 +1,39 @@
+.inputPeriod {
+	margin: 30px 20px;
+    padding: 0;
+}
+
+input:focus, select:focus {
+	outline: none;
+}
+
+.table-activities {
+	margin-top: 35px; 
+	border: 0.5px solid #DCE0E0;
+	padding: 10px;
+}
+
+.ui-datepicker {
+	display: none;
+	position: absolute;
+    top: 252px !important;
+    left: 261.5px !important;
+    z-index: 1;
+    background-color: whitesmoke !important;
+    border: 1px solid  !important;
+    padding: 10px 20px  !important;
+}
+.ui-icon {
+	background-color: black !important;	
+	color: white !important;
+	margin: 10px !important;
+	padding: 5px !important;
+	border-radius: 5px !important;
+}
+.ui-icon:hover {
+	cursor: pointer;
+}
+
+.yearly {
+	margin: 40px 0;
+}

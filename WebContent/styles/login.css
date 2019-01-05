@@ -1,0 +1,11 @@
+fieldset{
+	border: 2px solid #999c9f !important; 
+	margin: 40px !important;
+	padding:30px !important;
+}
+
+legend{
+	
+	width: auto !important;
+	padding: 0 10px 0 10px !important;
+}

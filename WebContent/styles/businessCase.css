@@ -1,0 +1,94 @@
+.businessCaseBtn  {
+	float: right;
+}
+
+.msg {
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.isActive {
+	z-index: 2;
+    color: #fff;
+    background-color: #1daded;
+    border-color: #1daded;
+}
+
+.message-detail {
+	float: right;
+	border: 0.8px solid #c0c0c0;
+	margin-left:30px;
+	padding: 20px;
+	max-height: 85vh;
+	overflow:scroll;
+}
+
+.sender {
+	font-size: 2rem;
+	font-weight: bold;
+	float: left;
+	color: #575A5A;
+}
+
+.msg-date {
+	float: right;
+	font-weight: lighter;
+	margin-top: 20px;
+}
+
+.msg-subject {
+	float: left; 
+	padding-top: 30px;
+	font-size: 1.2rem;
+	font-weight: bolder;
+	color: #575A5A;
+}
+
+.msg-row {
+	clear: both;
+	
+}
+
+.message {
+	padding: 20px;
+}
+.comments {
+	background-color: #E1EBEB;
+	padding: 10px;
+}
+
+.comments-title {
+	margin-bottom: 20px;
+}
+
+.comment {
+	margin-bottom: 25px;
+}
+
+.commentator {
+	font-weight: 500;
+}
+
+.inputComment:focus {
+	outline: none;
+}
+
+.inputComment {
+	border-radius: .5rem;
+    border: 1px solid #BFBFBF;
+    margin: 0 0 25px 15px;
+    height: 42px;
+    padding: 8px;
+    font-size: 14px;
+    color: #303030;
+}
+
+.commentText {
+	/* float: left; */
+}
+
+.dateComment {
+	font-size: 12px;
+	/* float: right; */
+}

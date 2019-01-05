@@ -1,0 +1,61 @@
+html, body{
+	height: 100%;
+}
+
+body{
+	color: #343a40!important;	
+	display: flex;
+	flex-direction:column;
+}
+
+
+.user-link{
+	color:white !important;
+
+}
+
+.content{
+	flex: 1 0 auto;
+}
+
+.footer{
+	flex-shrink:0;
+}
+
+footer{
+	background-color: #999c9f;
+	color: white;
+	height: 100px;
+}
+
+
+/********** BUTTONS **********/
+.btn-metrx-blue{
+	background-color: #1daded !important;
+	color: white;
+	border-color: #1daded !important;
+}
+
+.btn-metrx-red{
+	background-color: crimson;
+	color: white;
+	border-color: crimson;
+}
+
+.btn-metrx-yellow{
+	background-color: #edca1d;
+	color: white;
+	border-color: #edca1d;
+}
+
+.btn-metrx-orange{
+	background-color: #ff471a;
+	color: white;
+	border-color: #ff471a;
+}
+
+.btn-metrx-green{
+	background-color: #ff471a;
+	color: white;
+	border-color: #ff471a;
+}
